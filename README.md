@@ -1,5 +1,7 @@
 # AOC 2023
 
+NOTE: Forked repo has been updated to run for all years, see here: https://github.com/PierreLouisFuron/advent-of-code
+
 Ruby repo to quickly pull puzzle inputs and share solutions for [Advent of Code](https://adventofcode.com/).
 
 ## Usage:
